@@ -18,11 +18,11 @@ This project is built with **Python** and uses **SQLite (via SQLAlchemy)** for d
 
 ## User Stories
 
-1. As a user, I can **create an account** so I can join the hub.  
-2. As a user, I can **add skills** I want to share.  
-3. As a user, I can **browse other users' skills** to see what’s available.  
-4. As a user, I can **book a skill session** from another member.  
-5. As a user, I can **cancel my bookings** if I change my mind.  
+1. As a user, I can create an account so I can join the hub.  
+2. As a user, I can add skills I want to share.  
+3. As a user, I can browse other users' skills** to see what’s available.  
+4. As a user, I can book a skill session from another member.  
+5. As a user, I can cancel my bookings if I change my mind.  
 
 ---
 

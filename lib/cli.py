@@ -1,5 +1,3 @@
-# lib/cli.py
-
 from sqlalchemy.orm import sessionmaker
 from skillshare.database import engine
 from skillshare.models import User, Skill, Booking
